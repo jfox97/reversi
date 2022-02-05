@@ -3,7 +3,7 @@ from datetime import datetime
 
 import numpy as np
 import random as rand
-import reversi
+import reversi_baseline
 
 TIME_PER_TURN = 3
 
